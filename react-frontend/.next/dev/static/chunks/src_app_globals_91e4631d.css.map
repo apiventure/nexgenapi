@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/enall530/IdeaProjects/POT/react-frontend/src/app/globals.css"],"sourcesContent":["body {\n  background: #f5f7fa;\n  color: #172033;\n  font-family: \"Avenir Next\", \"Segoe UI\", sans-serif;\n  margin: 0;\n  padding: 0;\n}\n"],"names":[],"mappings":"AAAA"}}]
+}

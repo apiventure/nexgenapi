@@ -1,0 +1,30 @@
+/* [project]/src/app/globals.css [app-client] (css) */
+:root {
+  --font-sans: "Avenir Next", "Segoe UI", sans-serif;
+  --color-bg-page: #f5f7fa;
+  --color-text-primary: #172033;
+  --color-brand-strong: #0b4f6c;
+  --color-border-soft: #dbe5f1;
+  --color-border-input: #c7d3e7;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --shadow-card: 0 8px 24px #0f172a0f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--color-bg-page);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+  margin: 0;
+  padding: 0;
+}
+
+button, input, textarea, select {
+  font: inherit;
+}
+
+/*# sourceMappingURL=src_app_globals_css_bad6b30c._.single.css.map*/
